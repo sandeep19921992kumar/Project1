@@ -6,7 +6,7 @@ public class scnd {
 	@Test
 	public void m1()
 	{
-		System.out.println("hum ho gy print");
+		System.out.println("hum ho gy print t");
 	}
 
 }
